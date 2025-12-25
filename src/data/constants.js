@@ -271,7 +271,7 @@ export const projects = [
       "https://github.com/ashish117840/github-images/blob/main/CarManagement.png?raw=true",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB"],
     category: "web app",
-    github: "https://github.com/ashish117840/car-management-system",
+    github: "https://github.com/ashish117840/Car-Detail-and-Management-System",
     webapp: "https://car-detail-and-management-system.vercel.app/",
   },
   {
@@ -284,7 +284,7 @@ export const projects = [
       "https://github.com/ashish117840/github-images/blob/main/Wanderlust.png?raw=true",
     tags: ["Node.js", "Express.js", "MongoDB", "EJS", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/ashish117840/wanderlust-vacation-rental",
+    github: "https://github.com/ashish117840/Wanderlust",
     webapp: "https://wanderlust-kbq6.onrender.com/listings",
   },
   {
